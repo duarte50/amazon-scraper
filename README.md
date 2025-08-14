@@ -2,6 +2,9 @@
 
 Aplicativo que realiza buscas na Amazon utilizando Node.js, Express e Playwright, para extrair informações sobre os produtos disponíveis no website.
 
+<img alt="amazon scraper" src="https://github.com/user-attachments/assets/fa762e0d-77ea-464a-ab28-2d58feeaf965" />
+
+
 ---
 
 ## Setup
